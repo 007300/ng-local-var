@@ -1,6 +1,7 @@
 # ng-local-var
 
 [![Build Status](https://travis-ci.org/007300/ng-local-var.svg?branch=master)](https://travis-ci.org/007300/ng-local-var)
+[![npm version](https://badge.fury.io/js/ng-local-var.svg)](https://badge.fury.io/js/ng-local-var)
 
 A simple directive to define a variable in template for Angular.
 
